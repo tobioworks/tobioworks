@@ -1,0 +1,136 @@
+{
+    "title": "🔬 What recent studies say (and how to use that knowledge)",
+    "sections": [
+        {
+            "id": 1,
+            "title": "Extra-virgin olive oil (EVOO) is cardioprotective",
+            "summary": "The PREDIMED randomized trial showed a Mediterranean diet + EVOO or nuts reduced major cardiovascular events vs. a low-fat diet.",
+            "recommendation": "Use EVOO daily (1–3 tbsp) as your default fat.",
+            "sources": [
+                "nejm.org",
+                "predimed.es"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Protein: distribute it evenly, hit the leucine threshold",
+            "summary": "For adults in your age range, aim for ≥0.3 g/kg per meal (~17–20 g for her; ~20–23 g for him per meal, minimum) and ~2.2 g/kg/day total.",
+            "recommendation": "Keep 3+ protein-containing meals/day.",
+            "sources": [
+                "Frontiers",
+                "sciencedirect.com"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Whole-grain swaps help, but GI control comes from the whole plate",
+            "summary": "Whole grains outperform refined ones on post-meal glucose in RCTs, but effects vary.",
+            "recommendation": "Pair carbs with protein/fat to blunt glucose rise (e.g., rice cakes + cottage/FAGE + turkey).",
+            "sources": [
+                "sciencedirect.com"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Quinoa has modest, positive cardio-metabolic effects",
+            "summary": "Trials and recent reviews report small reductions in LDL-C, weight and glucose when quinoa replaces other carbs.",
+            "recommendation": "Keep using quinoa/cuscús integral/rice-cake-with-quinoa.",
+            "sources": [
+                "MDPI",
+                "Frontiers",
+                "SpringerLink"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Rice cakes: high GI alone — keep pairing them",
+            "summary": "Brown-rice/quinoa cakes can spike glucose if eaten alone.",
+            "recommendation": "Always add protein or fat (FAGE 0%, turkey slices, hummus, avocado).",
+            "sources": [
+                "Health"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Tuna & mercury: enjoy, but rotate species",
+            "summary": "Spanish AESAN advises regular fish intake while managing mercury exposure.",
+            "recommendation": "Rotate tuna with salmon/pavo/chicken; keep variety weekly.",
+            "sources": [
+                "AESAN"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Smoked salmon: great omega-3, watch the sodium",
+            "summary": "Smoked salmon contains ~600–700 mg sodium / 100 g (fresh ≈ 75 mg).",
+            "recommendation": "Limit to 1–3 meals/week, choose reduced-sodium packs, balance with potassium-rich vegetables.",
+            "sources": [
+                "WebMD",
+                "sciencedirect.com"
+            ]
+        }
+    ],
+    "matrix_upgrades": [
+        {
+            "matrix_line": "Healthy Fats & Oils → EVOO",
+            "action": "Elevate to daily default fat",
+            "why": "EVOO-supplemented Mediterranean diet lowers CVD events.",
+            "how": "1–3 tbsp/day raw on salads/veg; cook low-moderate heat.",
+            "source": "nejm.org"
+        },
+        {
+            "matrix_line": "Proteins – Lean",
+            "action": "Enforce per-meal targets (≥0.3 g/kg/meal)",
+            "why": "Protein distribution and leucine threshold matter with ageing.",
+            "how": "For her: ≥20 g/meal; for him: ≥23 g/meal (e.g., 150 g chicken or 200 g FAGE).",
+            "source": "Frontiers"
+        },
+        {
+            "matrix_line": "Complex Carbs",
+            "action": "Prioritise quinoa/cuscús integral over bread/granola",
+            "why": "Whole grains improve postprandial profiles; plate composition matters.",
+            "how": "Use bread/granola as portion-controlled (≤40 g) add-ons.",
+            "source": "sciencedirect.com"
+        },
+        {
+            "matrix_line": "Rice cakes (quinoa)",
+            "action": "Pair with protein/fat every time",
+            "why": "Rice cakes alone have high GI; pairing lowers glycemic response.",
+            "how": "2–3 cakes + FAGE 0%/turkey fiambre/hummus.",
+            "source": "Health"
+        },
+        {
+            "matrix_line": "Tuna (Ortiz/Albo)",
+            "action": "Keep, rotate",
+            "why": "Fish is safe & beneficial; manage mercury via variety.",
+            "how": "Alternate tuna with salmon, chicken, pavo; 2–4 fish meals/week.",
+            "source": "AESAN"
+        },
+        {
+            "matrix_line": "Smoked Salmon",
+            "action": "Limit frequency / choose low-Na",
+            "why": "Typical sodium ~672 mg/100 g; excess Na ↑ BP/CVD.",
+            "how": "1–3×/week; add potassium-rich veg; check 'reduced-sodium' labels.",
+            "source": "WebMD"
+        },
+        {
+            "matrix_line": "Legumes & Hummus",
+            "action": "Anchor fibre to hit 35 g/day",
+            "why": "Legumes raise fibre, improve lipids & satiety.",
+            "how": "Aim 5–7 legume servings/week across lunches/dinners.",
+            "source": "BioMed Central"
+        }
+    ],
+    "rice_cake_picks": [
+        "Santiveri Bio Arroz Integral + Quinoa → clean label, low sugar; best general choice.",
+        "El Granero Integral Bio Arroz + Quinoa → slightly more protein; fibre lower, so add kiwi/veg.",
+        "ECI “sin sal” brown-rice cakes → sodium control; top with EVOO + tomato or hummus."
+    ],
+    "bottom_line": [
+        "EVOO daily, fish 2–4×/week, legumes most days (PREDIMED & meta-analyses).",
+        "Protein at each meal (≥0.3 g/kg/meal), total ≈ 2.2 g/kg/day (PROT-AGE & distribution data).",
+        "Carbs = whole-grain + legumes + fruit; rice cakes only with protein/fat.",
+        "Smoked salmon: keep, but limit or choose reduced-sodium; rotate with fresh fish/tuna.",
+        "Tuna: Ortiz/Albo are great; rotate species per AESAN guidance."
+    ]
+}
