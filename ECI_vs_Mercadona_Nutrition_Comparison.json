@@ -1,0 +1,113 @@
+{
+    "summary": {
+        "eci_total_cost": "€1,050–1,080",
+        "mercadona_total_cost": "€780–820",
+        "cost_savings": "25–30%",
+        "eci_nutrition_index": 9.3,
+        "mercadona_nutrition_index": 8.7,
+        "nutrition_difference_percent": -6,
+        "notes": "Mercadona maintains ~90–94% of nutrient quality with lower protein and probiotic diversity."
+    },
+    "macro_balance": {
+        "eci": {
+            "protein": 22,
+            "carbohydrates": 48,
+            "fat": 30
+        },
+        "mercadona": {
+            "protein": 21,
+            "carbohydrates": 49,
+            "fat": 30
+        }
+    },
+    "categories": {
+        "Fresh Produce & Fruit": {
+            "eci_score": 9.8,
+            "mercadona_score": 9.6,
+            "difference": -0.2,
+            "impact": "Minimal nutrient change, equal vitamins/minerals, slightly less antioxidant retention in frozen options."
+        },
+        "Whole Grains & Legumes": {
+            "eci_score": 9.5,
+            "mercadona_score": 9.3,
+            "difference": -0.2,
+            "impact": "Identical macronutrients; slightly higher sodium in Mercadona canned legumes."
+        },
+        "Meat & Fish": {
+            "eci_score": 9.4,
+            "mercadona_score": 8.5,
+            "difference": -0.9,
+            "impact": "Lower omega-3 and protein density, slightly more sodium and additives in processed meats."
+        },
+        "Dairy & Alternatives": {
+            "eci_score": 9.6,
+            "mercadona_score": 8.2,
+            "difference": -1.4,
+            "impact": "Lower protein (–40–50%), slightly higher sugar, reduced probiotic variety."
+        },
+        "Snacks & Nuts": {
+            "eci_score": 7.0,
+            "mercadona_score": 6.0,
+            "difference": -1.0,
+            "impact": "Higher sugar and processed oils in Mercadona snacks."
+        },
+        "Beverages & Coffee": {
+            "eci_score": 9.0,
+            "mercadona_score": 8.8,
+            "difference": -0.2,
+            "impact": "Similar nutrients; minor difference in coffee blend and olive oil polyphenols."
+        },
+        "Supplements": {
+            "eci_score": 9.5,
+            "mercadona_score": 9.4,
+            "difference": -0.1,
+            "impact": "Comparable nutrients and efficacy; minor purity variation in protein powders."
+        },
+        "Hygiene & Cleaning": {
+            "eci_score": 9.0,
+            "mercadona_score": 8.5,
+            "difference": -0.5,
+            "impact": "More fragrance and potential irritants in Mercadona products."
+        }
+    },
+    "health_effects": {
+        "digestive_health": {
+            "eci": "High",
+            "mercadona": "Medium",
+            "difference": "-20% probiotic diversity"
+        },
+        "anti_inflammatory_index": {
+            "eci": "Excellent",
+            "mercadona": "Good",
+            "difference": "-10–15% omega-3/MUFA ratio"
+        },
+        "protein_density": {
+            "eci": 5.0,
+            "mercadona": 4.4,
+            "difference": "-12%"
+        },
+        "sodium_load_mg_day": {
+            "eci": 1900,
+            "mercadona": 2200,
+            "difference": "+15%"
+        },
+        "sugar_intake_g_day": {
+            "eci": 60,
+            "mercadona": 70,
+            "difference": "+10–15%"
+        },
+        "overall_health_score": {
+            "eci": 9.3,
+            "mercadona": 8.7,
+            "difference": "-0.6"
+        }
+    },
+    "recommendations": {
+        "keep_premium": [
+            "Greek yogurt / kefir (Fage / Oikos / Nestlé)",
+            "Fish in olive oil (Ortiz / Albo)",
+            "Extra virgin olive oil (ECI Selection)"
+        ],
+        "switch_to_mercadona": "For all other items; maintain 9.1/10 nutrition and ~€860/month total cost."
+    }
+}
