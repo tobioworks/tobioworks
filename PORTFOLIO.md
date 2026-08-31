@@ -61,6 +61,16 @@ The goal is practical: **turn promising AI behavior into a product or operationa
 
 ---
 
+## Applied AI/ML timeline
+
+My AI/ML work predates the current generative-AI cycle and spans digital health, medical imaging, data platforms, language models, automation, and agentic systems.
+
+The public timeline is intentionally anonymized and distinguishes research/prototyping from production claims:
+
+➡️ **[Applied AI/ML Timeline — 2019–Present](AI_ML_TIMELINE.md)**
+
+---
+
 ## Working style
 
 **Problem → evidence → smallest useful slice → measure → improve.**
