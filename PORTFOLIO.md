@@ -1,78 +1,66 @@
-# Selected Product & AI Work
+[← Back to profile](README.md) · [Applied AI and ML timeline](AI_ML_TIMELINE.md)
 
-This page is deliberately portfolio-safe. It describes outcomes, product scope, and technical areas without publishing customer/employer source code, private repository names, credentials, datasets, or internal architecture.
+# Selected product and platform work
 
-## ClinicsApp — founder-led product scale
+I work across product discovery, customer delivery and technical implementation. These case studies describe my contribution and the results supported by the available evidence.
 
-**Context**  
-A digital product built for clinics, combining product development, customer feedback, rollout, and ongoing iteration.
+## ClinicsApp
 
-**My scope**
-- Founder-led product development and product strategy
-- Translating clinic workflows into usable software
-- Iterative delivery across product, technology, and adoption
-- International rollout and continuous improvement
+**Founder and Product Lead · IDEA X / ClinicsApp · 2014–2023**
 
-**Scale reached**
-- 100+ clinics in Spain
-- 50+ clinics internationally
-- 500K+ downloads
+### The customer problem
 
-**What it demonstrates**  
-0→1 product building, product-market learning, sustained iteration, and the ability to move from an initial product concept to meaningful real-world adoption.
+Clinics and hospital groups needed digital services that connected clinic operations with patient-facing workflows. Making that useful required customer discovery, integration with existing systems and practical rollout support.
 
----
+### My contribution
 
-## Enterprise AI & operational automation
+I owned the product journey from discovery through launch, partnerships, onboarding and international expansion. As Product Manager and development lead for a national private hospital group, I worked on the patient-portal integration and rollout during 2016–2018, using a per-site connector architecture.
 
-**Problem class**  
-Operational workflows are often fragmented across ERP, commerce, APIs, documents, email, and human decision points. The opportunity is not simply to add a chatbot; it is to redesign the workflow so AI can assist or act within explicit boundaries.
+### Supported results
 
-**What I work on**
-- Agentic workflows around enterprise systems
-- ERP and commerce integration patterns
-- API-first automation and orchestration
-- Human-in-the-loop approval paths
-- Retrieval, evaluation, observability, and guardrails
-- Cloud architecture and delivery on Microsoft/Azure-oriented stacks
+- **100+ clinic/site relationships by late 2016.**
+- **Completed integration and rollout across 40+ hospital centres.**
+- **10+ clinics in Colombia**, publicly reported.
 
-**How I approach it**  
-Start with the operational decision, identify the smallest useful automation boundary, make evidence observable, test failure modes, then expand only when the workflow earns trust.
+The work demonstrates product ownership through customer discovery, integration delivery and rollout. ClinicsApp is historical shipped-product experience; the mobile app is no longer available.
 
-**Public disclosure boundary**  
-Commercial implementations remain private. Public material focuses on transferable architecture, methods, patterns, and outcomes rather than proprietary code or customer data.
+## Enterprise integrations
 
----
+**Current platform and automation work**
 
-## Agentic product systems
+### The customer problem
 
-I am particularly interested in the product layer around agents: not only model calls, but the system required to make agentic behavior dependable.
+ERP, commerce and cloud systems need to exchange dependable data while giving operators a clear way to review and handle exceptions.
 
-Areas I actively explore include:
-- Tool-using agents and orchestration
-- Evaluation and regression testing
-- Evidence and provenance
-- State, memory, and retrieval
-- Approval and escalation boundaries
-- Cost, latency, and reliability trade-offs
-- AgentOps and operational feedback loops
+### My contribution
 
-The goal is practical: **turn promising AI behavior into a product or operational capability that can be tested, observed, governed, and improved.**
+I lead enterprise platform and integration work across Business Central, Shopify Plus and Microsoft cloud. I translate business requirements into API and data-flow contracts, workflow review states, acceptance evidence and rollout decisions.
 
----
+Selected work includes ERP and commerce integrations and billing automation. Delivery evidence includes validated builds, Sandbox installations, payload review and preview controls.
 
-## Applied AI/ML timeline
+## Applied AI
 
-My AI/ML work predates the current generative-AI cycle and spans digital health, medical imaging, data platforms, language models, automation, and agentic systems.
+**Internal tools, prototypes and evaluation**
 
-The public timeline is intentionally anonymized and distinguishes research/prototyping from production claims:
+### The product problem
 
-➡️ **[Applied AI/ML Timeline — 2019–Present](AI_ML_TIMELINE.md)**
+Useful AI workflows need to make their actions, limits and review points understandable to the people operating them.
 
----
+### My contribution
 
-## Working style
+I develop and evaluate internal tools for implementation planning, evidence retrieval and communications. The work includes tool use, retrieval, regression testing, provenance and human approval paths.
 
-**Problem → evidence → smallest useful slice → measure → improve.**
+The work spans discovery, prototypes and internal operational workflows. Each case is described at its demonstrated stage.
 
-I optimize for usable systems and verifiable progress over presentation-heavy prototypes. A strong implementation should make it clear what works, what is uncertain, what can fail, and what evidence supports the next decision.
+[Read the project-based AI and ML timeline →](AI_ML_TIMELINE.md)
+
+## Founder and engineering foundation
+
+- **Nexia Global:** Founder / CxO and Technical Account Manager, 2008–2014. Enterprise solution design, technical account ownership and customer delivery.
+- **IDEA X:** Founder and Product Lead, including ClinicsApp, 2014–2023.
+- **Sonrissa Digital Memories:** Co-founder and CTO, 2006–2008.
+- **Microsoft EPDC Ireland:** full-time Software Development Engineer in Test, 1999–2001.
+
+Commercial source code, customer identities, private repositories and proprietary data are not published here. Public forks and research copies are not presented as my original implementations.
+
+[← Back to profile](README.md)
