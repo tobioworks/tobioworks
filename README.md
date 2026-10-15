@@ -1,47 +1,41 @@
 # Javier Tobío
 
-**Product & Agentic AI Leader · Founder · Enterprise Transformation**
+**Product and Platform Leader · Founder**
 
-I build AI-enabled products, agentic systems, enterprise platforms, and integrations that turn complex operational problems into usable software.
+I turn customer problems into products, integrations and workflows that people can use—from discovery and launch to enterprise rollout.
 
-My work sits at the intersection of **product strategy, software engineering, AI, cloud platforms, ERP, commerce, and automation** — with a strong bias toward shipping, evidence, and measurable outcomes.
+Founder of **Nexia Global** and **IDEA X**. Co-founder of **Sonrissa Digital Memories**. My background combines product ownership, customer delivery and Microsoft engineering.
 
-## What I focus on
+**Spain · EU work eligibility · Interested in remote product, platform and new-venture roles in Europe**
 
-- **Agentic AI & applied LLM systems** — agents, orchestration, evaluation, guardrails, retrieval, and human-in-the-loop workflows
-- **0→1 product development** — discovery, prototyping, validation, MVPs, and product/platform strategy
-- **Enterprise platforms & integration** — Microsoft Azure, Dynamics 365 / Business Central, APIs, data flows, and automation
-- **Digital commerce & operations** — ERP ↔ commerce integration, operational tooling, and workflow modernization
-- **Technical leadership** — translating business problems into architecture, delivery plans, and working products
+[Explore selected work](PORTFOLIO.md) · [Applied AI and ML timeline](AI_ML_TIMELINE.md) · [Contact](mailto:digitalinnovationpartners@gmail.com)
 
-## Selected proof
+## Selected work
 
-### ClinicsApp
-Founder-led product development that reached:
+### From discovery to hospital rollout
 
-- **100+ clinics in Spain**
-- **50+ clinics internationally**
-- **500K+ downloads**
+At **IDEA X / ClinicsApp**, I owned discovery, launch, partnerships and onboarding. The product reached **100+ clinic/site relationships by late 2016**. As Product Manager and development lead, I worked on a completed patient-portal integration and rollout across **40+ hospital centres** during 2016–2018.
 
-That work shaped how I approach product today: start from the real workflow, ship the smallest useful slice, learn from usage, and compound improvements over time.
+[Read the ClinicsApp case study →](PORTFOLIO.md#clinicsapp)
 
-### Enterprise AI & automation
-I design practical AI and automation capabilities around enterprise workflows — especially where **ERP, commerce, APIs, documents, data, and human approvals** meet.
+### Connecting enterprise systems
 
-My current areas of interest include agentic workflows, evaluation, evidence and provenance, retrieval, guardrails, AgentOps, and the product architecture required to move from promising prototypes to dependable operational systems.
+I lead platform, integration and automation work across **Business Central, Shopify Plus and Microsoft cloud**, connecting business requirements with API contracts, workflow design and delivery decisions.
 
-➡️ **[Selected product & AI work](PORTFOLIO.md)**
+[Explore enterprise integration work →](PORTFOLIO.md#enterprise-integrations)
 
-## How I work
+### Making AI workflows dependable
 
-**Problem → evidence → smallest useful slice → measure → improve.**
+I develop and evaluate **internal tools and prototypes** for implementation planning, evidence retrieval and communications, using regression checks and human review.
 
-I prefer systems that are observable, testable, secure by design, and useful to the people operating them. I care about making clear what works, what is uncertain, what can fail, and what evidence supports the next decision.
+[Explore applied AI work →](PORTFOLIO.md#applied-ai)
 
-## Technology areas
+## What I bring
 
-`Agentic AI` · `LLMs` · `Python` · `TypeScript` · `APIs` · `Azure` · `Microsoft 365` · `Dynamics 365` · `Business Central` · `Shopify` · `PostgreSQL` · `GitHub Actions` · `DevOps`
+- **Product ownership:** customer discovery, scope, launch, partnerships and onboarding.
+- **Technical depth:** APIs, data flows, enterprise systems and a full-time Microsoft engineering foundation.
+- **Founder judgment:** connect the customer problem to what gets built, delivered and learned.
 
----
+My working approach: understand the workflow, ship a useful slice, check the result, then improve it.
 
-**Public disclosure policy:** this profile intentionally shows only portfolio-safe material. Commercial source code, private repositories, customer data, credentials, internal architecture, and proprietary implementation details remain private.
+*Case studies describe my work. Commercial source code and customer data remain private; research copies and forks retain their original authorship.*
